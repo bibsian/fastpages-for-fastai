@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Fastpages For Deeplearning
-description: My blogging notebooks for understanding concepts in data science and deeplearning.
+title: Fastpages For Deep Learning
+description: My blogging notebooks for understanding concepts in data science and deep learning.
 github_username: bibsian
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "fastpages-for-fastai"
@@ -55,7 +55,7 @@ show_image: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 
+google_analytics: UA-153110440-1
 
 exclude:
   - docker-compose.yml
